@@ -1,0 +1,17 @@
+1.bert_kaggle_Entropy:
+資料一(kaggle競賽)
+模型:bert
+選資料的方法:Entropy
+
+2.bert_kaggle_Least_Confident:
+資料一(kaggle競賽)
+模型:bert
+選資料的方法:Least Confident
+
+3.bert_news:
+資料二(網路爬蟲新聞標題)
+模型:bert
+
+4.keras_news:
+資料二(網路爬蟲新聞標題)
+模型:keras
